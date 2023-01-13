@@ -11,8 +11,6 @@
 **Step 3:** Go to gitinfo.py file and replace this line "git_status("path/to/your/local/git/repo")" with the path to your local git repo on your machine.\
 \
 **Step 4:** Run gitinfo.py file. The desired output should be visible in the terminal/command prompt.\
-\
-\
-
+<br>
 #### The sample output is as follows:
 
