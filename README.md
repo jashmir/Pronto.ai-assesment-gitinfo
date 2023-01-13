@@ -1,4 +1,4 @@
-# Pronto.ai assesment gitinfo
+# Pronto.ai Assesment: Git Info
 
 ### Python project to extract gitinfo for a local git repository
 
