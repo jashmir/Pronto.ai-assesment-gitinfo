@@ -13,4 +13,4 @@
 **Step 4:** Run gitinfo.py file. The desired output should be visible in the terminal/command prompt.\
 <br>
 #### The sample output is as follows:
-
+![alt text](https://github.com/jashmir/Pronto.ai-assesment-gitinfo/blob/main/img/Sample_Output.png "Sample Output")
