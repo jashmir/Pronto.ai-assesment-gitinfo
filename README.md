@@ -1,8 +1,8 @@
 # Pronto.ai assesment gitinfo
 
-### Python project to extract gitinfo for a local git repository\
+### Python project to extract gitinfo for a local git repository
 
-##### To run this project:\
+##### To run this project:
 \
 **Step 1:** Clone this repository.\
 **Step 2:** Install the dependency if not installed. Go to terminal/command prompt and type "pip install GitPython".\
